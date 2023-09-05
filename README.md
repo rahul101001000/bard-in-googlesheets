@@ -10,3 +10,5 @@ Using Google Palm API (that powers Bard) as a formula in Google Sheets
 
 ### Usage
 Just like you use a formula to add numbers i.e. =SUM(A1..A3), you can now use generative AI within your Google sheets using the formula =ASKAI(A1) where the prompt is in A1 and the current cell is where you want the output to appear. 
+
+![image](https://github.com/rahul101001000/bard-in-googlesheets/assets/63799217/49e3c056-96fb-46e1-badf-0a77017034e7)
